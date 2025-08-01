@@ -14,4 +14,9 @@ Making the mounting stick for things in multiple lengths! 8:10 - 8:30
 It's a weird threading because fusion dosent want to work with me but also honestly who cares? You should not be using metal screws with this since the tolerances will be garbage anyways for a *real* optical breadboard. This is meant for low powered lasers! Also the threading is going to be in the readme so anyone can just 3D print new mounts if they want anyways. 
 
 
-Making a general purpose platform that attaches to four anchor points (can be used to glue on any mounts not designed with holes that I may design later)! 8:50 - 
+Making a general purpose platform that attaches to four anchor points (can be used to glue on any mounts not designed with holes that I may design later)! 8:50 - 9
+
+<img width="616" height="565" alt="image" src="https://github.com/user-attachments/assets/80b17556-8e19-4fdc-8f93-4fd105220bbb" />
+
+
+Making laser and mirror mounts, plus any other random peices I think people might want, 9 - 
