@@ -19,4 +19,9 @@ Making a general purpose platform that attaches to four anchor points (can be us
 <img width="616" height="565" alt="image" src="https://github.com/user-attachments/assets/80b17556-8e19-4fdc-8f93-4fd105220bbb" />
 
 
-Making laser and mirror mounts, plus any other random peices I think people might want, 9 - 
+Making laser and mirror mounts, plus any other random peices I think people might want, 9 - 10:31
+Made two TO-18 mounts (most common laser housing architecture), one threaded and one unthreaded, made a mirror mount and a mirror screw
+
+<img width="849" height="621" alt="image" src="https://github.com/user-attachments/assets/a83e9412-07f1-499a-9144-e3b3c61e09af" />
+<img width="500" height="689" alt="image" src="https://github.com/user-attachments/assets/b988b144-9588-41e1-86f9-e4eb6ca7748f" />
+
