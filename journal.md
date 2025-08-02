@@ -54,3 +54,10 @@ This design is a beam adder, assuming you use the proper mirrors and one where i
 Time: 3hr
 
 ---------
+
+Made a simple platform. I was originally going to add slots for things like x-cubes or other blocks, but since it won't be moving around much I didn't think there was a point and just left it simple. If you need, just keep it down with a peice of tape or something.
+
+<img width="692" height="437" alt="image" src="https://github.com/user-attachments/assets/9c075611-c9c4-4004-91fb-08b2726a618e" />
+
+Time: 10 mins?
+
