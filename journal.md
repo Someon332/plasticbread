@@ -27,3 +27,5 @@ Made two TO-18 mounts (most common laser housing architecture), one threaded and
 <img width="849" height="621" alt="image" src="https://github.com/user-attachments/assets/a83e9412-07f1-499a-9144-e3b3c61e09af" />
 <img width="500" height="689" alt="image" src="https://github.com/user-attachments/assets/b988b144-9588-41e1-86f9-e4eb6ca7748f" />
 
+
+Made a sample construction and cleaning up the github! ~1.5 hr
