@@ -7,11 +7,10 @@ created at: 7/31/25
 
 Total time: ~5 hr
 
-Making fundamental breadboard that all the other parts are gonna rest on! 
+Making fundamental breadboard that all the other parts are gonna rest on! This serves as the main 'breadboard' that everything else will be screwed onto. This is made to be able to host four mounting pins and is only 80x80mm so that people don't have to print out a lot of area they won't use (it's modular so people can make it bigger if they need to easily). 
 
 <img width="748" height="656" alt="image" src="https://github.com/user-attachments/assets/392b0e1a-f3b0-4eee-9dbf-659399404b56" />
 
-Subject to edits later when I figure out what im doing
 Time: 35m
 
 
@@ -40,4 +39,10 @@ Time: 1.5hr
 
 
 Made a sample construction and cleaning up the github!
+
+Sample construction image: 
+
+<img width="991" height="534" alt="image" src="https://github.com/user-attachments/assets/e4a5c19e-0cd6-4f3b-b6fb-f5499c7dad22" />
+
+This design is a beam adder (assuming you use the proper mirrors)
 Time: 2.5hr
