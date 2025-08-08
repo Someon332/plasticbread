@@ -12,7 +12,8 @@ That is where plasticbread comes in! It serves as a 3D printable and modular bre
 
 Sample construction (mirrors and lasers not shown): 
 
-<img width="1038" height="601" alt="image" src="https://github.com/user-attachments/assets/58c51ee8-6be4-492f-ad89-bb8fd31f7dfc" />
+<img width="1474" height="703" alt="image" src="https://github.com/user-attachments/assets/66140445-f48d-4608-a99d-0de248cf1682" />
+
 
 
 
