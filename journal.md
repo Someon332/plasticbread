@@ -5,7 +5,7 @@ description: A 3D printable modular optical breadboard!
 created at: 7/31/25
 ---
 
-Total time: 5.5 hr
+Total time: 5.7 hr
 
 ---------
 
@@ -61,3 +61,10 @@ Made a simple platform. I was originally going to add slots for things like x-cu
 
 Time: 10 mins?
 
+---------
+
+Modeled in the lasers and mirrors to the example circuit and specified the type of PLA in the BOM. 
+
+<img width="1474" height="703" alt="image" src="https://github.com/user-attachments/assets/3724dd20-ea6b-40c7-a42b-ff100e8de7a1" />
+
+Time: 15 mins
