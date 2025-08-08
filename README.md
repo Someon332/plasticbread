@@ -18,4 +18,4 @@ Sample construction (mirrors and lasers not shown):
 
 
 # BOM:
-Literally just 3D printer filament lol. Rigid filaments, like PLA, are best for this. 
+Literally just 3D printer filament lol. Rigid filaments, like PLA, are best for this. I use black PLA from Overture.  
