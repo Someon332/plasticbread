@@ -10,7 +10,7 @@ Optical breadboards are heavy metal plates with holes threaded into them meant t
 That is where plasticbread comes in! It serves as a 3D printable and modular breadboard that can be used to quickly test optical circuits involving low to mid powered lasers by hobbyists who cannot afford to spend hundreds of dollars on real breadboards. While the tolerances are higher and the vibrations will be larger, this is a viable alternative when you just need something that can easily mount your optical implements. 
 
 
-Sample construction (mirrors and lasers not shown): 
+Sample construction of a beam adder: 
 
 <img width="1474" height="703" alt="image" src="https://github.com/user-attachments/assets/66140445-f48d-4608-a99d-0de248cf1682" />
 
