@@ -68,3 +68,10 @@ Modeled in the lasers and mirrors to the example circuit and specified the type 
 <img width="1474" height="703" alt="image" src="https://github.com/user-attachments/assets/3724dd20-ea6b-40c7-a42b-ff100e8de7a1" />
 
 Time: 15 mins
+
+---------
+
+Printing out parts. The tolerance on the edge nubs(unsure if that's the right word but you get what I mean) could be a little smaller but not enough to ruin the usefulness. The tolerance on the mounting poles is too large though, so I updated the models. 
+
+Time: 2 hrs
+
