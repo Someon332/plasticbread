@@ -71,7 +71,9 @@ Time: 15 mins
 
 ---------
 
-Printing out parts. The tolerance on the edge nubs(unsure if that's the right word but you get what I mean) could be a little smaller but not enough to ruin the usefulness. The tolerance on the mounting poles is too large though, so I updated the models. 
+8/11 and 8/12/25
+
+Printing out parts. The tolerance on the edge nubs(unsure if that's the right word but you get what I mean) could be a little smaller but not enough to ruin the usefulness. The tolerance on the mounting poles is too large though, so I updated the models. Went through this multiple times, including on the next day... 
 
 Time: 2 hrs
 
