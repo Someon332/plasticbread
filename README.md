@@ -20,3 +20,14 @@ Sample construction of a beam adder (materials not included in BOM):
 
 # BOM:
 Literally just 3D printer filament lol. Rigid filaments, like PLA, are best for this. I use black PLA from Overture.  
+
+
+# IRL Images and YT Video
+
+All the parts I printed out (not every modeled part, didn't want to waste plastic) 
+<img width="1151" height="866" alt="image" src="https://github.com/user-attachments/assets/4a5bb1ef-47a6-4e13-8393-69697413d4b5" />
+
+Assembled in an example circuit (demo in the YT video) 
+<img width="1151" height="866" alt="image" src="https://github.com/user-attachments/assets/9a19f4a1-097f-40dd-8f45-74a4505337ad" />
+
+YT Video: 
