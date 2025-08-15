@@ -5,7 +5,7 @@ description: A 3D printable modular optical breadboard!
 created at: 7/31/25
 ---
 
-Total time: 5.7 hr
+Total time: 6.7 hr
 
 ---------
 
@@ -75,5 +75,14 @@ Time: 15 mins
 
 Printing out parts. The tolerance on the edge nubs(unsure if that's the right word but you get what I mean) could be a little smaller but not enough to ruin the usefulness. The tolerance on the mounting poles is too large though, so I updated the models. Went through this multiple times, including on the next day... 
 
+<img width="731" height="646" alt="image" src="https://github.com/user-attachments/assets/9bea9e0a-9e32-4397-91a2-60979360ba4f" />
+
 Time: 2 hrs
 
+---------
+
+8/14
+
+Today I assembled everything, took the video, edited it together, and submitted everything I needed to do for highway. I also uploaded the laser mount I had made the previous time I was working on this. Images in the readme! 
+
+Time: 1 hr
