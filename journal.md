@@ -85,4 +85,6 @@ Time: 2 hrs
 
 Today I assembled everything, took the video, edited it together, and submitted everything I needed to do for highway. I also uploaded the laser mount I had made the previous time I was working on this. Images in the readme! 
 
+Assembly was easy since it's just screws but I had to fidget with the threaded mounts a bit to get everything lined up. Other than that it went perfectly. 
+
 Time: 1 hr
