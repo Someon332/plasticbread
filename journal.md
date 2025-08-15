@@ -75,7 +75,7 @@ Time: 15 mins
 
 8/11 and 8/12/25
 
-Printing out parts. The tolerance on the edge nubs of the base plates (unsure if that's the right word but you get what I mean) could be a little smaller but not enough to ruin the usefulness. The tolerance on the mounting poles is too large though, so I updated the models. Went through this multiple times, including on the next day... 
+Printing out parts. The tolerance on the edge nubs of the base plates (unsure if that's the right word but you get what I mean) could be a little smaller but not enough to ruin the usefulness. The tolerance on the mounting poles is too large though, so I updated the models. Went through this multiple times, including on the next day... They were first 10mm in diameter but that just couldn't fit into the screws on the build plates so then I tried 8mm which was too small and just slipped. 9mm worked the best and would screw in about half the distance and then get stuck/secure, probably due to 3D printed screws being weird. 
 
 <img width="718" height="962" alt="image" src="https://github.com/user-attachments/assets/a265b56c-f8b6-44b1-a4dc-0ad762ee2fa5" />
 
@@ -86,8 +86,10 @@ Time: 2 hrs
 
 8/14
 
-Today I assembled everything, took the video, edited it together, and submitted everything I needed to do for highway. I also uploaded the laser mount I had made the previous time I was working on this. Images in the readme! 
+Today I assembled everything, took the video, edited it together, and submitted everything I needed to do for highway. I also uploaded the laser mount I had made the previous time I was working on this. Images in the readme, and video on YT! 
 
-Assembly was easy since it's just screws but I had to fidget with the threaded mounts a bit to get everything lined up. Other than that it went perfectly. 
+Assembly was easy since it's just screws but I had to fidget with the threaded mounts a bit to get everything lined up. The leads from the laser to the battery were a little annoying because I didn't want to use electrical tape, but once I put the battery on the side it all worked easily. I tried using the 20mm mounting pole with the double slit card but that was too short so I just had to angle it on the 40mm card correctly. 
+
+The video is just a collection of clips of me assembling and demoing the project. It's ~5 mins because I love yapping ;-;. 
 
 Time: 1 hr
