@@ -73,9 +73,10 @@ Time: 15 mins
 
 8/11 and 8/12/25
 
-Printing out parts. The tolerance on the edge nubs(unsure if that's the right word but you get what I mean) could be a little smaller but not enough to ruin the usefulness. The tolerance on the mounting poles is too large though, so I updated the models. Went through this multiple times, including on the next day... 
+Printing out parts. The tolerance on the edge nubs of the base plates (unsure if that's the right word but you get what I mean) could be a little smaller but not enough to ruin the usefulness. The tolerance on the mounting poles is too large though, so I updated the models. Went through this multiple times, including on the next day... 
 
-<img width="731" height="646" alt="image" src="https://github.com/user-attachments/assets/9bea9e0a-9e32-4397-91a2-60979360ba4f" />
+<img width="718" height="962" alt="image" src="https://github.com/user-attachments/assets/a265b56c-f8b6-44b1-a4dc-0ad762ee2fa5" />
+
 
 Time: 2 hrs
 
