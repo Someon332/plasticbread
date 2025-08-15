@@ -5,9 +5,10 @@ description: A 3D printable modular optical breadboard!
 created at: 7/31/25
 ---
 
-Total time: 6.7 hr
+Total time: 9 hr (6 hrs planning and 3 hrs building)
 
 ---------
+# Planning 
 
 Making fundamental breadboard that all the other parts are gonna rest on! This serves as the main 'breadboard' that everything else will be screwed onto. This is made to be able to host four mounting pins and is only 80x80mm so that people don't have to print out a lot of area they won't use (it's modular so people can make it bigger if they need to easily). The tolerances are kinda high because 3D printing, but it's easily editable because the tolerance is made with an offset on a triangle in the sketch. 
 
@@ -70,6 +71,7 @@ Modeled in the lasers and mirrors to the example circuit and specified the type 
 Time: 15 mins
 
 ---------
+# Build 
 
 8/11 and 8/12/25
 
