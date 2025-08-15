@@ -30,4 +30,4 @@ All the parts I printed out (not every modeled part, didn't want to waste plasti
 Assembled in an example circuit (demo in the YT video) 
 <img width="1151" height="866" alt="image" src="https://github.com/user-attachments/assets/9a19f4a1-097f-40dd-8f45-74a4505337ad" />
 
-YT Video: 
+YT Video: https://youtu.be/Wnmxr57mIm4
